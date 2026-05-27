@@ -1,0 +1,14 @@
+.DS_Store
+.idea
+*.log
+*.bkkx
+tmp/
+.bkkrc
+.codex
+*.py[cod]
+*.egg
+build
+.claude
+.agents
+bkk.xpr
+.pytest_cache
